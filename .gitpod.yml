@@ -1,0 +1,8 @@
+image:
+  file: .gitpod.dockerfile
+
+vscode:
+  extensions:
+    - ms-vscode.csharp@1.21.9:4NByVUcknHkm8M71U1BkDQ==
+    - eamodio.gitlens@10.2.0:GNDO73Cmp0fYDiLNxVkbsQ==    
+    - icsharpcode.ilspy-vscode@0.7.10:3fbq/3yCybQoTmGMHapzYQ==
